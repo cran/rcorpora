@@ -1,7 +1,7 @@
-0c01f5b6a34bee47e56582e0d84bf226 *DESCRIPTION
+47060e639ff5bdb33d3fe96dc1ad7bfa *DESCRIPTION
 6e94cc189787f965ea570c1a746240e1 *NAMESPACE
-e62efef7a48c10e416d7e3b93e096fa7 *R/corpora.R
-5c43f10a50935b7809443cbc7048db45 *build/rcorpora.pdf
+ca6a651e25750254064e5358dea2a47b *R/corpora.R
+5b69ea80556f1dc87ff697908850200d *build/rcorpora.pdf
 1ae17230476930d5284d5f16c36a3dbe *inst/corpora/Gruntfile.js
 a33b2e3fc2416c0ecc2719c4050eeb9b *inst/corpora/README.md
 bf9124340913a1010c54b1d8746a56ab *inst/corpora/data/animals/birds_antarctica.json
@@ -89,4 +89,4 @@ c9d01bbe7cbdfac25483b46708a01a73 *inst/corpora/data/words/word_clues/clues_four.
 fa57ee0c0095fda610b9649437a106e3 *inst/corpora/data/words/word_clues/clues_six.json
 3290d71adbf704bf5707af92e61be35e *inst/corpora/package.json
 f7577c0f5b872f8cf97f1bc8c08e0f0d *man/categories.Rd
-c5787c796bda7fd737321e06dbeae638 *man/corpora.Rd
+0f66acb992e115e38305286a1519c905 *man/corpora.Rd
