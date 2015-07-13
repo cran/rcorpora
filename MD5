@@ -1,8 +1,8 @@
-0ee9320c00282f5887e06f0ac350cef9 *DESCRIPTION
-c24d740842f5ada0b66c1d4c3d3210f8 *NAMESPACE
-ca6a651e25750254064e5358dea2a47b *R/corpora.R
-d92a4b9202579e0597343bf233fbef77 *build/rcorpora.pdf
-4724f4b984638d4d23113222e4ffae99 *inst/NEWS.md
+2b52970ee03ce787f69d33e684cd326a *DESCRIPTION
+61f31731c243d7e7bbb6ec20cdc6e02f *NAMESPACE
+9629d18aa78f2cc3b6d93b94b89d96ee *R/corpora.R
+86a002824d6a8aae760613e34c0dcca0 *build/rcorpora.pdf
+f9ce22c6fd5f6b0434deda490071ec39 *inst/NEWS.md
 c48ec4ddeb8bfe2b6bd7f7451f1fbe60 *inst/README.markdown
 1ae17230476930d5284d5f16c36a3dbe *inst/corpora/Gruntfile.js
 c651a76b62bffb70bb7d79de092a91a6 *inst/corpora/README.md

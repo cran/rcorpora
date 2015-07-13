@@ -1,6 +1,6 @@
 Package: rcorpora
 Title: A Collection of Small Text Corpora of Interesting Data
-Version: 1.1.0
+Version: 1.1.1
 Maintainer: Gabor Csardi <csardi.gabor@gmail.com>
 Author: Darius Kazemi, Matthew Rothenberg, Karl Swedberg, Matthew Hokanson,
     Nathan Lachenmyer, Aaron Marriner, Mark Sample, Casey Kolderup,
@@ -19,10 +19,10 @@ Description: A collection of small text corpora of interesting data.
     humans: authors, US presidents, occupations; science: elements,
     planets; words: adjectives, verbs, proverbs, US president quotes.
 License: CC0
-Imports: jsonlite
+Imports: jsonlite, utils
 URL: https://github.com/gaborcsardi/rcorpora
 BugReports: https://github.com/gaborcsardi/rcorpora/issues
 NeedsCompilation: no
-Packaged: 2015-06-07 18:55:31 UTC; gaborcsardi
+Packaged: 2015-07-13 00:47:43 UTC; gaborcsardi
 Repository: CRAN
-Date/Publication: 2015-06-08 08:39:30
+Date/Publication: 2015-07-13 03:56:00
