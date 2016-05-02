@@ -29,7 +29,7 @@
 #'
 #' See https://github.com/dariusk/corpora
 #' 
-#' @section Data set caterories:
+#' @section Data set categories:
 #' \Sexpr[results=rd]{rcorpora:::corpora_manual_1()}
 #'
 #' @section Data sets:
@@ -76,7 +76,10 @@ corpora <- function(which, category) {
 #' @export
 
 categories <- function() {
-  dir(my_data_dir())
+  setdiff(
+    list.dirs(my_data_dir(), full.names = FALSE),
+    ""
+  )
 }
 
 
