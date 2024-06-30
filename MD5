@@ -1,9 +1,9 @@
-463499b0a809bd9513adf25190368d16 *DESCRIPTION
+f32ca3081c02b9212629c973fd0ab8a1 *DESCRIPTION
 9a0f03633e873d1c79520eec450c315d *NAMESPACE
 352fa3b4ff752956cdedf5f396157958 *R/corpora.R
-c2dc2aa1ace7f9fac299b3543e75d6f5 *build/rcorpora.pdf
-84e2daef858aa0c4e4adcc79d9c3dc80 *inst/NEWS.md
-8d3b5ff2e5b1bd062b2ee8d0d92636d9 *inst/README.markdown
+5687ac58a89f1f31434b008d6dee2abd *build/stage23.rdb
+558386c0cc3857c9b0ab33ca2c9fd378 *inst/NEWS.md
+63032fbd2823491167811db9757fabc5 *inst/README.markdown
 1ae17230476930d5284d5f16c36a3dbe *inst/corpora/Gruntfile.js
 28a14a2b853685d6b382489259786bec *inst/corpora/README.md
 bf9124340913a1010c54b1d8746a56ab *inst/corpora/data/animals/birds_antarctica.json

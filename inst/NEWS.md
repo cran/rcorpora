@@ -1,4 +1,8 @@
 
+# 2.0.1
+
+* No changes.
+
 # 2.0.0
 
 * Data sets are now cached to minimize loading times (#2, @richfitz)

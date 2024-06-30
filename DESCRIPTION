@@ -1,6 +1,6 @@
 Package: rcorpora
 Title: A Collection of Small Text Corpora of Interesting Data
-Version: 2.0.0
+Version: 2.0.1
 Maintainer: Gábor Csárdi <csardi.gabor@gmail.com>
 Author: 
     Darius Kazemi, Cole Willsea, Serin Delaunay, Karl Swedberg,
@@ -45,6 +45,6 @@ BugReports: https://github.com/gaborcsardi/rcorpora/issues
 RoxygenNote: 6.0.1
 Encoding: UTF-8
 NeedsCompilation: no
-Packaged: 2018-07-17 18:26:28 UTC; gaborcsardi
+Packaged: 2024-06-30 20:08:40 UTC; gaborcsardi
 Repository: CRAN
-Date/Publication: 2018-07-17 19:20:03 UTC
+Date/Publication: 2024-06-30 20:30:02 UTC
